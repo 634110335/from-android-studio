@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //使用AndroidStuodio上传GieHub
+        //fork下来的项目改了用户名
+        //再次fork
     }
 }
